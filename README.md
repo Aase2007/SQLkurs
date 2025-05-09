@@ -48,7 +48,7 @@ SELECT kolonne FROM tablenavn;
 ## Slette et table
 Bruk kommandoen under for å slette et table og erstatt *tablenavn* med navnet på tablet du vil slette.
 ```
-DROP tablenavn;
+DROP TABLE tablenavn;
 ```
 
 ## Andre ting
